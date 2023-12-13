@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Comptador</string>
+    <string name="punts">Puntuació: %1$d</string>
+    <string name="touchme">Tocam</string>
+    <string name="timeText">Temps disponible: %1$d</string>
+    <string name="endGame">Temps acabat! Resultat: %1$d</string>
+    <string name="aboutMenu">About</string>
+</resources>
